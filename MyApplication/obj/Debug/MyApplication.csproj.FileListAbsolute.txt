@@ -1,0 +1,12 @@
+c:\users\bharadwaj.bondili\documents\visual studio 2015\Projects\MyApplication\MyApplication\obj\Debug\MyApplication.csprojResolveAssemblyReference.cache
+c:\users\bharadwaj.bondili\documents\visual studio 2015\Projects\MyApplication\MyApplication\bin\Debug\MyApplication.dll
+c:\users\bharadwaj.bondili\documents\visual studio 2015\Projects\MyApplication\MyApplication\bin\Debug\MyApplication.pdb
+c:\users\bharadwaj.bondili\documents\visual studio 2015\Projects\MyApplication\MyApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\bharadwaj.bondili\documents\visual studio 2015\Projects\MyApplication\MyApplication\bin\Debug\nunit.framework.dll
+c:\users\bharadwaj.bondili\documents\visual studio 2015\Projects\MyApplication\MyApplication\bin\Debug\WebDriver.dll
+c:\users\bharadwaj.bondili\documents\visual studio 2015\Projects\MyApplication\MyApplication\bin\Debug\WebDriver.Support.dll
+c:\users\bharadwaj.bondili\documents\visual studio 2015\Projects\MyApplication\MyApplication\bin\Debug\nunit.framework.xml
+c:\users\bharadwaj.bondili\documents\visual studio 2015\Projects\MyApplication\MyApplication\bin\Debug\WebDriver.xml
+c:\users\bharadwaj.bondili\documents\visual studio 2015\Projects\MyApplication\MyApplication\bin\Debug\WebDriver.Support.xml
+c:\users\bharadwaj.bondili\documents\visual studio 2015\Projects\MyApplication\MyApplication\obj\Debug\MyApplication.dll
+c:\users\bharadwaj.bondili\documents\visual studio 2015\Projects\MyApplication\MyApplication\obj\Debug\MyApplication.pdb
